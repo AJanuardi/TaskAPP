@@ -1,0 +1,14 @@
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.exe
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.deps.json
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.runtimeconfig.json
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.runtimeconfig.dev.json
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.dll
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\app2.pdb
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50130\Desktop\app2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.csprojAssemblyReference.cache
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.AssemblyInfoInputs.cache
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.AssemblyInfo.cs
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.csproj.CopyComplete
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.dll
+D:\Users\bsi50130\Desktop\app2\obj\Debug\netcoreapp3.0\app2.pdb

@@ -1,0 +1,14 @@
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.exe
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.deps.json
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.dll
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\app.pdb
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50130\Desktop\app\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.csproj.CopyComplete
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.dll
+D:\Users\bsi50130\Desktop\app\obj\Debug\netcoreapp3.0\app.pdb
